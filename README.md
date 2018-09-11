@@ -5,5 +5,6 @@ A lo largo del desarrollo del curso de FullStack y Aplicaciones Hibridas dictado
 
 * Mockup
 * Calculadora en HTML y CSS3
-* Base de datos con JavaScript
+* Base de datos con JavaScript 
+* gpskk
 
