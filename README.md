@@ -8,4 +8,6 @@ A lo largo del desarrollo del curso de FullStack y Aplicaciones Hibridas dictado
 * Base de datos con JavaScript 
 * Tienda
 
+no me deberia dejar subir el cambio
+
 
